@@ -4,6 +4,8 @@
 
 <p align='center'>
 [![Linkedin: rulep](https://img.shields.io/badge/-rulep-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rulep/)](https://www.linkedin.com/in/rulep/)
+</p>
+<p align='center'>
 [![ymail: mrxmemo](https://img.shields.io/badge/-email-blueviolet?style=flat-square&logo=yahoo&logoColor=white&link=mailto:mrxmemo@yahoo.com)](mailto:mrxmemo@yahoo.com)
 </p>
 
