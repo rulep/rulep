@@ -2,9 +2,9 @@
 
 <h1 align='center'> Hello, there! <img src="https://raw.githubusercontent.com/rulep/rulep/master/wave.gif" width="30px"> </h1>
 
-<p style="align: center">
+<h2 style="align: center">
 [![Linkedin: rulep](https://img.shields.io/badge/-rulep-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rulep/)](https://www.linkedin.com/in/rulep/)
-</p>
+</h2>
 <p style="align: center">
 [![ymail: mrxmemo](https://img.shields.io/badge/-email-blueviolet?style=flat-square&logo=yahoo&logoColor=white&link=mailto:mrxmemo@yahoo.com)](mailto:mrxmemo@yahoo.com)
 </p>
