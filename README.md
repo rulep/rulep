@@ -2,7 +2,7 @@
 
 <h1 align='center'> Hiya <img src="https://raw.githubusercontent.com/rulep/rulep/master/wave.gif" width="30px"> I'm Rouan</h1>
 
-<em>Software Engineering Apprentice at <a href="https://www.thinkful.com/">Thinkful</a></em>
+<h3 align="center"><em>Software Engineering Apprentice at <a href="https://www.thinkful.com/">Thinkful</a></em></h3>
 
 ### About me...
 ```javascript
