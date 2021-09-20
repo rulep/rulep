@@ -1,4 +1,4 @@
-[![Header](https://i.imgur.com/wd8F14S.png)]
+![Header](https://i.imgur.com/wd8F14S.png)
 
 ### Hi there 👋
 
