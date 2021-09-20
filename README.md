@@ -3,6 +3,9 @@
 ### Hi there 👋
 
 <h1 align='center'> Hi! :wave:</h1>
+
+I come from a non-technical background having studied Computerized Accounting. I took up Wed Development as a hobby. During my studies, I came across the Thinkful platform, where I learned more about the program. As my interests aligned with it's offerings, I signed on to take this hobby to the next level by making a social impact through programming. I'm always looking for new friends to build cool things. If you're interested in working on a project together, don't hesitate to contact me. 
+
 <!--
 **rulep/rulep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
