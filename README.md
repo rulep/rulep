@@ -31,8 +31,7 @@ Avatar designed by the Amazingly, Gifted [Dave Roldez](https://www.instagram.com
 
 
 <div align='center'>
-[Booked](https://i.imgur.com/abLiXF0.png)
-<img src='https://img.shields.io/github/license/chroline/well_app?style=for-the-badge'>
+<img src='https://i.imgur.com/abLiXF0.png'>
 </div>
 
 <br />
