@@ -31,7 +31,7 @@ Avatar designed by the Amazingly, Gifted [Dave Roldez](https://www.instagram.com
 
 
 <div align='center'>
-<img src='https://i.imgur.com/abLiXF0.png'>
+<img src='https://i.imgur.com/abLiXF0.png' width="500">
 </div>
 
 <br />
@@ -40,7 +40,7 @@ Avatar designed by the Amazingly, Gifted [Dave Roldez](https://www.instagram.com
 <table>
 <tr>
 <td>
-<img align="left" src="https://i.imgur.com/abLiXF0.png" width="190">
+<img align="left" src="https://i.imgur.com/NOSdKgw.gifv" width="190">
 <h3>What are people using it for?</h3>
 <ul>
     <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod</li>
