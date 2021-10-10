@@ -7,7 +7,7 @@
 ### About me...
 ```javascript
 const rouan = {
-    programmingLanguages: ["Javascript"],
+    programmingLanguages: ["JavaScript"],
     library: ["React"],
     webDevelopment: ["HTML5", "CSS3", "REST APIs"],
     technologies: ["Node", "Express"],
