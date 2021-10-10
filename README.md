@@ -28,8 +28,11 @@ I'm always looking for new friends to build cool things. If you're interested in
 
 Avatar designed by the Amazingly, Gifted [Dave Roldez](https://www.instagram.com/i_scream.jpg/) 😄
 
+
+
 <div align='center'>
-![Booked Logo](https://i.imgur.com/abLiXF0.png)
+[Booked](https://i.imgur.com/abLiXF0.png)
+<img src='https://img.shields.io/github/license/chroline/well_app?style=for-the-badge'>
 </div>
 
 <br />
