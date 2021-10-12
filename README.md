@@ -129,7 +129,7 @@ The following tech stack was used in this project:
 <!-- DEMO -->
 <h2 id="demo"> :cloud: Demo</h2>
 
-Here is a live demo :  https://iharsh234.github.io/WebApp/
+Here is a live demo:  [...]
 
 <div align='center'>
 <img src='https://i.imgur.com/q6EeYKQ.gifg'>
@@ -141,9 +141,9 @@ Here is a live demo :  https://iharsh234.github.io/WebApp/
 <h2 id="mobile-support"> :iphone: Mobile Support</h2>
 
 <div align='center'>
-<img src='https://i.imgur.com/YNRKcxv.png'>
-<img src='https://i.imgur.com/SV59mrN.png'>
-<img src='https://i.imgur.com/8Ys8lxs.png'>
+<img src='https://i.imgur.com/YNRKcxv.png' width=33%>
+<img src='https://i.imgur.com/SV59mrN.png' width=33%>
+<img src='https://i.imgur.com/8Ys8lxs.png' width=33%>
 </div>
 
 <img src='https://i.imgur.com/DwCJ72P.png'>
