@@ -131,7 +131,7 @@ The following tech stack was used in this project:
 
 Here is a live demo:  [...]
 
-<div align='center'>
+<div>
 <img src='https://i.imgur.com/q6EeYKQ.gifg'>
 </div>
 
