@@ -140,9 +140,9 @@ Here is a live demo:  [...]
 <!-- MOBILE SUPPORT -->
 <h2 id="mobile-support"> :iphone: Mobile Support</h2>
 
-<img src='https://i.imgur.com/YNRKcxv.png' width=33%>
-<img src='https://i.imgur.com/SV59mrN.png' width=33%>
-<img src='https://i.imgur.com/8Ys8lxs.png' width=33%>
+<img src='https://i.imgur.com/YNRKcxv.png' width="33%">
+<img src='https://i.imgur.com/SV59mrN.png' width="33%">
+<img src='https://i.imgur.com/8Ys8lxs.png' width="33%">
 
 <img src='https://i.imgur.com/DwCJ72P.png'>
 
