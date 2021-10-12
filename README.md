@@ -154,17 +154,13 @@ Here is a live demo:  [...]
 
 The table displays the API endpoints and its use:
 
-| API Endpoint                                             | Function                                                                                                            |
-| -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| `/reservations`                                          | GET: List all Reservations. POST: Create a new reservation                  |                      
+| API Endpoint                                             | Description                                                                                                         
+| -------------------------------------------------------- | ---------------------------------------------------------------------------
+| `/reservations`                                          | GET: List all Reservations. POST: Create a new reservation                                      
 | `/reservations/:reservationId`                           | GET: Single reservation by Reservation_Id, PUT: Update a reservation by ReservationId 
-|
 | `/reservations/:reservationId/status`                    | PUT: Update a reservation status as either "Booked", "Seated", "Finished", or "Canceled"
-|
 | `/tables`                                                | GET: List all Tables, POST: Create a new table
-|
 | `/tables/:tablesID`                                      | GET: List a single table
-|
 | `/tables:tableId/seat`                                   | PUT: Updates a single table's status to "Occupied", Delete: Updates a single table's status to "Free"                
 
     
