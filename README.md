@@ -156,7 +156,7 @@ The table displays the API endpoints and its use:
 
 | API Endpoint                                             | Function                                                                                                            |
 | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| `/reservations`                                          | GET: List all Reservations. POST: Create a new reservation                                                          |                      
+| `/reservations`                                          | GET: List all Reservations. POST: Create a new reservation                  |                      
 | `/reservations/:reservationId`                           | GET: Single reservation by Reservation_Id, PUT: Update a reservation by ReservationId 
 |
 | `/reservations/:reservationId/status`                    | PUT: Update a reservation status as either "Booked", "Seated", "Finished", or "Canceled"
@@ -165,7 +165,7 @@ The table displays the API endpoints and its use:
 |
 | `/tables/:tablesID`                                      | GET: List a single table
 |
-| `/tables:tableId/seat`                                   | PUT: Updates a single table's status to "Occupied", Delete: Updates a single table's status to "Free"                |
+| `/tables:tableId/seat`                                   | PUT: Updates a single table's status to "Occupied", Delete: Updates a single table's status to "Free"                
 
     
 <img src='https://i.imgur.com/DwCJ72P.png'>
