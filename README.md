@@ -54,10 +54,6 @@ Avatar designed by the Amazingly, Gifted [Dave Roldez](https://www.instagram.com
 </table>
 </p>
 
-<div align='center'>
-<img src='https://i.imgur.com/q6EeYKQ.gifg'>
-</div>
-
 <h2 id="table-of-contents"> :book: Table of Contents</h2>
 
 <details open="open">
@@ -66,8 +62,8 @@ Avatar designed by the Amazingly, Gifted [Dave Roldez](https://www.instagram.com
     <li><a href="#about-the-project"> ➤ About The Project</a></li>
     <li><a href="#prerequisites"> ➤ Prerequisites</a></li>
     <li><a href="#getting-started"> ➤ Getting Started</a></li>
-    <li><a href="#dataset"> ➤ Dataset</a></li>
-    <li><a href="#roadmap"> ➤ Roadmap</a></li>
+    <li><a href="#demo"> ➤ Demo</a></li>
+    <li><a href="#mobile-support"> ➤ Mobile Support</a></li>
     <li>
       <a href="#preprocessing"> ➤ Preprocessing</a>
       <ul>
@@ -130,6 +126,32 @@ The following tech stack was used in this project:
 
 <img src='https://i.imgur.com/DwCJ72P.png'>
 
+<!-- DEMO -->
+<h2 id="demo"> :cloud: Demo</h2>
+
+Here is a live demo :  https://iharsh234.github.io/WebApp/
+
+<div align='center'>
+<img src='https://i.imgur.com/q6EeYKQ.gifg'>
+</div>
+
+<img src='https://i.imgur.com/DwCJ72P.png'>
+
+<!-- MOBILE SUPPORT -->
+<h2 id="mobile-support"> :iphone: Mobile Support</h2>
+
+<div align='center'>
+<img src='https://i.imgur.com/YNRKcxv.png'>
+<img src='https://i.imgur.com/SV59mrN.png'>
+<img src='https://i.imgur.com/8Ys8lxs.png'>
+</div>
+
+<img src='https://i.imgur.com/DwCJ72P.png'>
+
+
+
+
+<img src='https://i.imgur.com/DwCJ72P.png'>
 
 <!-- SOURCE -->
 <h2 id="source"> :scroll: Source</h2>
