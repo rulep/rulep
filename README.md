@@ -31,7 +31,7 @@ Avatar designed by the Amazingly, Gifted [Dave Roldez](https://www.instagram.com
 
 
 <div align='center'>
-<img src='https://i.imgur.com/abLiXF0.png' width="500">
+<img src='https://i.imgur.com/abLiXF0.png' width="300">
 </div>
 
 <br />
@@ -105,6 +105,16 @@ Avatar designed by the Amazingly, Gifted [Dave Roldez](https://www.instagram.com
 
 <img src='https://i.imgur.com/DwCJ72P.png'>
 
+
+
+
+
+<img src='https://i.imgur.com/DwCJ72P.png'>
+
+<!-- SOURCE -->
+<h2 id="source"> :scroll: Source</h2>
+
+Project's source code: <a href="https://github.com/Thinkful-Ed/starter-restaurant-reservation">https://github.com/Thinkful-Ed/starter-restaurant-reservation</a>
 
 
 <!--
