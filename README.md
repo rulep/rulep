@@ -28,7 +28,7 @@ I'm always looking for new friends to build cool things. If you're interested in
 
 Avatar designed by the Amazingly, Gifted [Dave Roldez](https://www.instagram.com/i_scream.jpg/) 😄
 
-<!--
+
 
 <div align='center'>
 <img src='https://i.imgur.com/abLiXF0.png' width="500">
@@ -58,7 +58,45 @@ Avatar designed by the Amazingly, Gifted [Dave Roldez](https://www.instagram.com
 <img src='https://i.imgur.com/q6EeYKQ.gifg'>
 </div>
 
--->
+<h2 id="table-of-contents"> :book: Table of Contents</h2>
+
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#about-the-project"> ➤ About The Project</a></li>
+    <li><a href="#prerequisites"> ➤ Prerequisites</a></li>
+    <li><a href="#folder-structure"> ➤ Folder Structure</a></li>
+    <li><a href="#dataset"> ➤ Dataset</a></li>
+    <li><a href="#roadmap"> ➤ Roadmap</a></li>
+    <li>
+      <a href="#preprocessing"> ➤ Preprocessing</a>
+      <ul>
+        <li><a href="#preprocessed-data">Pre-processed data</a></li>
+        <li><a href="#statistical-feature">Statistical feature</a></li>
+        <li><a href="#topological-feature">Topological feature</a></li>
+      </ul>
+    </li>
+    <!--<li><a href="#experiments">Experiments</a></li>-->
+    <li><a href="#results-and-discussion"> ➤ Results and Discussion</a></li>
+    <li><a href="#references"> ➤ References</a></li>
+    <li><a href="#contributors"> ➤ Contributors</a></li>
+  </ol>
+</details>
+
+
+<img src='https://i.imgur.com/DwCJ72P.png'>
+
+<!-- ABOUT THE PROJECT -->
+<h2 id="about-the-project"> :pencil: About The Project</h2>
+[(Back to top)](#table-of-contents)
+
+<p align="justify"> 
+  This application was built as the capstone project for the Thinkful Software Engineering Flex Program. It was designed to be used by restaurant personnel to keep track of reservations and table seating, when a request is made by a customer.
+</p>
+
+<img src='https://i.imgur.com/DwCJ72P.png'>
+
+
 
 <!--
 My name is Rouan, and I come from a non-technical background having studied Computerized Accounting. I took up Wed Development as a hobby. During my studies, I came across the <em><a href="https://www.thinkful.com/">Thinkful</a></em> platform, where I learned more about the program. As my interests aligned with it's offerings, I signed on to take this hobby to the next level by making a social impact through programming. I'm always looking for new friends to build cool things. If you're interested in working on a project together, don't hesitate to contact me 
