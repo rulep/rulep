@@ -88,7 +88,6 @@ Avatar designed by the Amazingly, Gifted [Dave Roldez](https://www.instagram.com
 
 <!-- ABOUT THE PROJECT -->
 <h2 id="about-the-project"> :pencil: About The Project</h2>
-[(Back to top)](#table-of-contents)
 
 <p align="justify"> 
   This application was built as the capstone project for the Thinkful Software Engineering Flex Program. It was designed to be used by restaurant personnel to keep track of reservations and table seating, when a request is made by a customer.
