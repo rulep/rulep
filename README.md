@@ -141,9 +141,7 @@ Here is a live demo:  [...]
 <h2 id="mobile-support"> :iphone: Mobile Support</h2>
 
 <div align='center'>
-<img src='https://i.imgur.com/YNRKcxv.png' width="33%">
-<img src='https://i.imgur.com/SV59mrN.png' width="33%">
-<img src='https://i.imgur.com/8Ys8lxs.png' width="33%">
+<img src='https://i.imgur.com/R2N2jUD.png'>
 </div>
     
 <img src='https://i.imgur.com/DwCJ72P.png'>
