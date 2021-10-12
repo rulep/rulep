@@ -36,6 +36,7 @@ Avatar designed by the Amazingly, Gifted [Dave Roldez](https://www.instagram.com
 
 <br />
 
+<!--
 <p align="center">
 <table>
 <tr>
@@ -53,6 +54,7 @@ Avatar designed by the Amazingly, Gifted [Dave Roldez](https://www.instagram.com
 </tr>
 </table>
 </p>
+-->
 
 <h2 id="table-of-contents"> :book: Table of Contents</h2>
 
@@ -64,8 +66,9 @@ Avatar designed by the Amazingly, Gifted [Dave Roldez](https://www.instagram.com
     <li><a href="#getting-started"> ➤ Getting Started</a></li>
     <li><a href="#demo"> ➤ Demo</a></li>
     <li><a href="#mobile-support"> ➤ Mobile Support</a></li>
+    <li><a href="#api-paths"> ➤ API Documentation</a></li>
     <li>
-      <a href="#preprocessing"> ➤ Preprocessing</a>
+      <a href="#mobile-support"> ➤ Pre-processing</a>
       <ul>
         <li><a href="#preprocessed-data">Pre-processed data</a></li>
         <li><a href="#statistical-feature">Statistical feature</a></li>
@@ -146,6 +149,26 @@ Here is a live demo:  [...]
     
 <img src='https://i.imgur.com/DwCJ72P.png'>
 
+<!-- API DOCUMENTATION -->
+<h2 id="mobile-support"> :newspaper: API DOCUMENTATION</h2>
+
+The table displays the API endpoints and its use:
+
+| API Endpoint                                             | Function                                                                                                            |
+| -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| `/reservations`                                          | GET: List all Reservations. POST: Create a new reservation                                                          |                      
+| `/reservations/:reservationId`                           | GET: Single reservation by Reservation_Id, PUT: Update a reservation by ReservationId 
+|
+| `/reservations/:reservationId/status`                    | PUT: Update a reservation status as either "Booked", "Seated", "Finished", or "Canceled"
+|
+| `/tables`                                                | GET: List all Tables, POST: Create a new table
+|
+| `/tables/:tablesID`                                      | GET: List a single table
+|
+| `/tables:tableId/seat`                                   | PUT: Updates a single table's status to "Occupied", Delete: Updates a single table's status to "Free"                |
+
+    
+<img src='https://i.imgur.com/DwCJ72P.png'>
 
 
 
