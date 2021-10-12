@@ -65,7 +65,7 @@ Avatar designed by the Amazingly, Gifted [Dave Roldez](https://www.instagram.com
   <ol>
     <li><a href="#about-the-project"> ➤ About The Project</a></li>
     <li><a href="#prerequisites"> ➤ Prerequisites</a></li>
-    <li><a href="#folder-structure"> ➤ Folder Structure</a></li>
+    <li><a href="#getting-started"> ➤ Getting Started</a></li>
     <li><a href="#dataset"> ➤ Dataset</a></li>
     <li><a href="#roadmap"> ➤ Roadmap</a></li>
     <li>
@@ -105,11 +105,31 @@ Avatar designed by the Amazingly, Gifted [Dave Roldez](https://www.instagram.com
 
 <img src='https://i.imgur.com/DwCJ72P.png'>
 
+<!-- PREREQUISITES -->
+<h2 id="prerequisites"> :fork_and_knife: Prerequisites</h2>
 
-
-
+The following tech stack was used in this project:
+* React
+* Node
+* Express
+* PostgreSQL
+* Knex
 
 <img src='https://i.imgur.com/DwCJ72P.png'>
+
+<!-- GETTING STARTED -->
+<h2 id="getting-started"> :book: Getting Started</h2>
+
+1. Fork and clone this repository.
+1. Run `cp ./back-end/.env.sample ./back-end/.env`.
+1. Update the `./back-end/.env` file with the connection URL's to your ElephantSQL database instance.
+1. Run `cp ./front-end/.env.sample ./front-end/.env`.
+1. You should not need to make changes to the `./front-end/.env` file unless you want to connect to a backend at a location other than `http://localhost:5000`.
+1. Run `npm install` to install project dependencies.
+1. Run `npm run start:dev` to start your server in development mode.
+
+<img src='https://i.imgur.com/DwCJ72P.png'>
+
 
 <!-- SOURCE -->
 <h2 id="source"> :scroll: Source</h2>
