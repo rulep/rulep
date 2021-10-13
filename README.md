@@ -153,7 +153,7 @@ Here is a live demo:  [...]
 <img src='https://i.imgur.com/DwCJ72P.png'>
 
 <!-- API DOCUMENTATION -->
-<h2 id="api-paths"> :newspaper: API DOCUMENTATION</h2>
+<h2 id="api-paths"> :newspaper: API Documentation</h2>
 
 The table displays the API endpoints and its use:
 
