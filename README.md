@@ -225,10 +225,11 @@ You can use the screenshots to debug your code by rendering additional informati
 <img src='https://i.imgur.com/DwCJ72P.png'>
 
 
+<!-- USER STORIES -->
+<h2 id="user-stories"> :small_orange_diamond: User Stories</h2>
 
-
-
-### US-01 Create and list reservations
+<!-- US-01 -->
+<h3 id="us-01"> US-01 Create and list reservations</h3>
 
 As a restaurant manager<br/>
 I want to create a new reservation when a customer calls<br/>
@@ -295,8 +296,8 @@ module.exports = {
 	create: asyncErrorBoundary(create)
 }
 ```
-
-### US-02 Create reservation on a future, working date
+<!-- US-02 -->
+<h3 id="us-02"> US-02 Create reservation on a future, working date</h3>
 
 As a restaurant manager<br/>
 I only want to allow reservations to be created on a day when we are open<br/>
@@ -320,7 +321,8 @@ so that users do not accidentally create a reservation for days when we are clos
 >
 > While there is nothing preventing you from using a third party library to handle dates for your project, you are encouraged to use the built-in Date class.
 
-### US-03 Create reservation within eligible timeframe
+<!-- US-03 -->
+<h3 id="us-03"> US-03 Create reservation within eligible timeframe</h3>
 
 As a restaurant manager<br/>
 I only want to allow reservations to be created during business hours, up to 60 minutes before closing<br/>
@@ -336,7 +338,8 @@ so that users do not accidentally create a reservation for a time we cannot acco
 
 > **Hint** Parsing a Date that includes the time in JavaScript can be tricky. Again, keep an eye out for which time zone is being used for your Dates.
 
-### US-04 Seat reservation
+<!-- US-04 -->
+<h3 id="us-04"> US-04 Seat reservation</h3>
 
 As a restaurant manager, <br/>
 When a customer with an existing reservation arrives at the restaurant<br/>
@@ -382,7 +385,9 @@ so that I know which tables are occupied and free.
 
 > **Hint** Add a `reservation_id` column in the `tables` table. Use the `.references()` and `inTable()` knex functions to add the foreign key reference.
 
-### US-05 Finish an occupied table
+
+<!-- US-05 -->
+<h3 id="us-05"> US-05 Finish an occupied table</h3>
 
 As a restaurant manager<br/>
 I want to free up an occupied table when the guests leave<br/>
@@ -398,7 +403,8 @@ so that I can seat new guests at that table.<br/>
 
 > **Hint** The end-to-end test waits for the tables list to be refreshed before checking the free/occupied status of the table, so be sure to send a GET request to `/tables` to refresh the tables list.
 
-### US-06 Reservation Status
+<!-- US-06 -->
+<h3 id="us-06"> US-06 Reservation Status</h3>
 
 As a restaurant manager<br/>
 I want a reservation to have a status of either booked, seated, or finished<br/>
@@ -418,7 +424,8 @@ so that I can see which reservation parties are seated, and finished reservation
 
 > **Hint** Use [`Knex.transaction()`](http://knexjs.org/#Transactions) to make sure the `tables` and `reservations` records are always in sync with each other.
 
-### US-07 Search for a reservation by phone number
+<!-- US-07 -->
+<h3 id="us-07"> US-07 Search for a reservation by phone number</h3>
 
 As a restaurant manager<br/>
 I want to search for a reservation by phone number (partial or complete)<br/>
@@ -450,7 +457,8 @@ so that I can quickly access a customer's reservation when they call about their
 > }
 > ```
 
-### US-08 Change an existing reservation
+<!-- US-08 -->
+<h3 id="us-08"> US-08 Change an existing reservation</h3>
 
 As a restaurant manager<br/>
 I want to be able to modify a reservation if a customer calls to change or cancel their reservation<br/>
@@ -474,8 +482,6 @@ so that reservations are accurate and current.
    - Clicking "Cancel" makes no changes, then display the previous page.
 
 > **Hint** The same validation used for create applies to editing a reservation. The form and the API for updating a reservation must not allow the user to violate any of the rules specified when creating a reservation.
-
-
 
 <img src='https://i.imgur.com/DwCJ72P.png'>
 
