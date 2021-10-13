@@ -28,7 +28,7 @@ I'm always looking for new friends to build cool things. If you're interested in
 
 Avatar designed by the Amazingly, Gifted [Dave Roldez](https://www.instagram.com/i_scream.jpg/) 😄
 
-
+<!--
 
 <div align='center'>
 <img src='https://i.imgur.com/abLiXF0.png' width="300">
@@ -489,6 +489,8 @@ so that reservations are accurate and current.
 <h2 id="source"> :scroll: Source</h2>
 
 Project's source code: <a href="https://github.com/Thinkful-Ed/starter-restaurant-reservation">https://github.com/Thinkful-Ed/starter-restaurant-reservation</a>
+
+-->
 
 
 <!--
