@@ -1,6 +1,6 @@
 ![Header](https://i.imgur.com/wd8F14S.png)
 
-<h1 align='center'> Hiya <img src="https://raw.githubusercontent.com/rulep/rulep/master/wave.gif" height="10px" width="10px"> I'm Rouan</h1>
+<h1 align='center'> Hiya <img src="https://raw.githubusercontent.com/rulep/rulep/master/wave.gif" height="30px" width="30px"> I'm Rouan</h1>
 
 <!--
 <h3 align="center"><em>Software Engineering Apprentice at <a href="https://www.thinkful.com/">Thinkful</a></em></h3>
