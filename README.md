@@ -23,7 +23,7 @@ const rouan = {
 ```
 
 I'm always looking for new friends to build cool things. If you're interested in working on a project together, don't hesitate to contact me 
-<!--[![Linkedin: rulep](https://img.shields.io/badge/-rulep-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rulep/)](https://www.linkedin.com/in/rulep/)-->
+[![Linkedin: rulep](https://img.shields.io/badge/-rulep-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rulep/)](https://www.linkedin.com/in/rulep/)
 [![ymail: mrxmemo](https://img.shields.io/badge/-mail-blueviolet?style=flat-square&logo=yahoo&logoColor=white&link=mailto:mrxmemo@yahoo.com)](mailto:mrxmemo@yahoo.com) 👉👈
 
 ---
